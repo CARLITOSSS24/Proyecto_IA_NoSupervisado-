@@ -12,8 +12,7 @@ Este proyecto implementa un sistema inteligente desarrollado en Python para el a
 * **Programa:** Ingeniería de Ciencias de Datos
 * **Asignatura:** Inteligencia Artificial
 * **Docente:** Joaquin Sanchez
-* **Integrantes:** * Carlos David Alvarez Ojeda
-  * Manuel Galindo Peña
+* **Integrantes:** Carlos David Alvarez Ojeda y Manuel Galindo Peña
 
 ## Estructura del Proyecto
 SistemaInteligenteTransporte/
