@@ -27,33 +27,7 @@ Proyecto_IA_NoSupervisado/
 ├── README.md
 └── .gitignore                     
 
-## Diagrama
-graph TD
-    %% Definición de Clústeres para GitHub/GitLab
-    
-    subgraph Cluster 0: Alta Demanda
-        PN[Portal Norte]
-        S[Suba]
-        H[Heroes]
-    end
 
-    subgraph Cluster 2: Flujo Moderado
-        C100[Calle 100]
-        C72[Calle 72]
-        M[Museo]
-    end
-
-    subgraph Cluster 1: Nodo Aislado
-        A[Aeropuerto]
-    end
-
-    %% Conexiones de la red según tu diccionario
-    PN --- C100
-    PN --- S
-    C100 --- H
-    S --- H
-    H --- C72
-    C72 --- M
 
 ## Requisitos Previos
 Antes de ejecutar el proyecto, es necesario tener instalado:
