@@ -15,6 +15,8 @@ Este proyecto implementa un sistema inteligente desarrollado en Python para el a
 * **Integrantes:** Carlos David Alvarez Ojeda y Manuel Galindo Peña
 
 ## Estructura del Proyecto
+
+```text
 Proyecto_IA_NoSupervisado/
 ├── dataset/
 │   └── dataset_estaciones.csv
@@ -25,7 +27,8 @@ Proyecto_IA_NoSupervisado/
 │   ├── pruebas_componente.pdf
 │   └── diagrama_estaciones.drawio
 ├── README.md
-└── .gitignore                     
+└── .gitignore
+```             
 
 
 
